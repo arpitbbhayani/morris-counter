@@ -3,7 +3,7 @@ argon2-cffi==20.1.0
 attrs==19.3.0
 autopep8==1.5.3
 backcall==0.2.0
-bleach==3.1.5
+bleach==3.3.0
 cffi==1.14.1
 cycler==0.10.0
 decorator==4.4.2
